@@ -21,3 +21,11 @@ relatorio.pdf - versão final do relatório, contendo:
     Registro detalhado de uso da LLM (prompts, respostas e verificações).
 
 prompts.txt - todos os prompts utilizados durante a atividade.
+
+# AI Usage Statement
+
+Este trabalho utilizou uma ferramenta de IA generativa para auxiliar na geração de explicações e exemplos de código.
+
+Todos os prompts utilizados estão documentados em prompts.txt.
+
+As respostas foram revisadas, testadas e verificadas pelo autor antes de serem incluídas no relatório.
