@@ -34,6 +34,3 @@ digitados pelo usuário, um por vez, terminando quando o usuário
 digitar -1. Ao final, mostre a média, o maior e o menor valor
 digitados. Não utilize nenhuma biblioteca além da stdio.h Lembre-se de adicionar comentários em todas etapas.
 
-
-PROMPTS AUXILIARES: 
-
