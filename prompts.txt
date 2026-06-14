@@ -1,0 +1,39 @@
+PROMPTS UTILIZADOS - LAB 8
+
+Ferramenta utilizada: Gemini, versão gratuita
+Data de uso: 12/06/26
+Acesso à internet: Sim
+
+
+PARTE 2 - EXPLICAÇÃO CONCEITUAL
+
+2.1) Prompt simples
+
+O que é recursão em programação?
+
+
+2.2) Prompt elaborado (com contexto, público-alvo e formato)
+
+Explique o conceito de recursão em programação para um estudante do
+primeiro ano de Ciência da Computação da UFRGS, que já programa em C, mas nunca
+usou recursão antes. Use linguagem simples e didática, e finalize com um resumo de até 3 frases resumindo o conteúdo.
+
+
+PARTE 3 - GERAÇÃO DE CÓDIGO
+
+3.1) Prompt utilizado para gerar o programa
+
+Escreva um programa que leia números digitados pelo
+usuário e, ao final mostre a média, o maior e o menor valor digitados.
+
+
+PARTE 4 - MELHORANDO O PROMPT
+
+Escreva um programa em C que leia números inteiros
+digitados pelo usuário, um por vez, terminando quando o usuário
+digitar -1. Ao final, mostre a média, o maior e o menor valor
+digitados. Não utilize nenhuma biblioteca além da stdio.h Lembre-se de adicionar comentários em todas etapas.
+
+
+PROMPTS AUXILIARES: 
+
